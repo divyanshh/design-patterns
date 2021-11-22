@@ -1,3 +1,7 @@
 # design-patterns
 
-https://sourcemaking.com/design_patterns/strategy/python/1
+## Behavioral patterns
+
+### Strategy pattern
+
+https://sourcemaking.com/design_patterns/strategy
