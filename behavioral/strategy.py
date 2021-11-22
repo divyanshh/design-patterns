@@ -7,7 +7,6 @@ Capture the abstraction in an interface, bury implementation details
 in derived classes.
 
 https://sourcemaking.com/design_patterns/strategy
-
 """
 
 import abc
