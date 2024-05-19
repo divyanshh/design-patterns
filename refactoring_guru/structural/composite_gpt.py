@@ -87,5 +87,5 @@ if __name__ == "__main__":
 
     # Print the structure
     dir1.operation()
-    for child in dir1.get_child():
+    for child in dir1.get_child(0):
         child.operation()
